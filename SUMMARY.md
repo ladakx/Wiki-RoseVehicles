@@ -56,9 +56,10 @@
   * [Particle Serializer](rosevehicles/serializers/particle-serializer.md)
   * [Item Serializer](rosevehicles/serializers/item-serializer.md)
 
-## 🚽 RoseCore
+## 🛠️ Inertia
 
-* [⚙️ Plugin Config](rosecore/config.md)
+* [👽 Render](inertia/render.md)
+* [⚙️ Plugin Config](inertia/config.md)
 
 ## 🧾 ARTICLES
 
